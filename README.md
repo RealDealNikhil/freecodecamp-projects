@@ -1,5 +1,5 @@
 # freecodecamp-projects
-## A fun repository by Nikhil Suri
+## A creative repository by Nikhil Suri
 
 In this repository I've stored my various creations from teaching myself web
 development through [FreeCodeCamp](https://www.freecodecamp.org/). Most of these projects were originally created using [CodePen](https://codepen.io/). Keep reading for a description of each, and I hope that you enjoy!
