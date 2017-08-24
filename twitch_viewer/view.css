@@ -1,0 +1,15 @@
+body {
+  margin: 60px;
+}
+
+ul {
+list-style-type: none;
+}
+
+.card {
+  background: gray;
+}
+
+.card-block {
+  margin: 40px;
+}
