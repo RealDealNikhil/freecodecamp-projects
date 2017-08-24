@@ -1,3 +1,5 @@
+// perhaps add more data through jquery calls and make this look better!
+
 function getInitialChannels () {
   $.getJSON('https://wind-bow.gomix.me/twitch-api/streams/freecodecamp?callback=?', function(data) {
     console.log(data);

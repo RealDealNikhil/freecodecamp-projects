@@ -1,3 +1,5 @@
+// need fixes on jquery calls
+
 $(document).ready(function() {
 
   $("#query").on("submit", function() {
