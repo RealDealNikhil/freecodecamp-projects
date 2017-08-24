@@ -1,0 +1,20 @@
+body {
+  margin: 60px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.link {
+  background: none;
+  border: none;
+  color: black;
+}
+
+.jumbotron {
+  margin: 60px;
+  border-radius: 10px;
+}
+
+#location {
+  opacity: 1;
+}
