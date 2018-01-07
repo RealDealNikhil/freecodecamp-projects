@@ -8,3 +8,4 @@ This repository contains various projects I have made from teaching myself how t
 * **Weather Wizard:** Updating you on local weather with relevant background images. You can switch between using Celcius and Fahrenheit units.
 * **Twitch TV Viewer:** Showcasing a few channels that I found on twitch. Still in progress.
 * **Wikipedia Viewer:** Quickly find Wikipedia articles on any topic you want. Still in progress.
+* **node-projects:** Projects created while learning how to use node through `learnyounode`.
