@@ -1,8 +1,8 @@
 // filter module
-var filterModule = require('./filterModule.js');
+var filter = require('./filterModule.js');
 
 // use module
-filterModule(process.argv[2], process.argv[3], callback)
+filter(process.argv[2], process.argv[3], callback)
 
 // callback function
 function callback(err, data) {
